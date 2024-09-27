@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cars": "^1.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mongodb": "^6.8.1",
+    "mongoose": "^8.6.3",
+    "nodemon": "^3.1.7",
+    "pug": "^3.0.3"
+  }
+}
